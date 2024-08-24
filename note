@@ -1,0 +1,11 @@
+commande linux utile :
+clear pour effacer le terminal
+ls pour lister les fichiers 
+cp nom du fichier à copier nom du nouveau fichier 
+mv nom du fichier à renommmer nom du nouveau fichier 
+rm pour remove 
+pour l'autocompletion utilise tab
+mkdir pour créer un fichier 
+cd nom du dossier, pour changer de directory
+mv nom du fichier avec deux points te ramène ton fichier dans le répertoire parent
+rmdir pour supprimer un dossier 
